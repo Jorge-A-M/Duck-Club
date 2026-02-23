@@ -51,3 +51,16 @@ Please ensure you have downloaded all files included in the repository, includin
 ## Questions? 📧
 Feel free to contact me over at jorge.martin0308@gmail.com with any questions about gameplay, how to run, or even if you find any bugs! 🐛
 
+## Credit 👏
+
+Customization Screen Gameplay - [Myself](https://github.com/Jorge-A-M)
+
+Furniture Gameplay (Primary) - [Htin Lwin Htoo than](https://www.linkedin.com/in/htinlwinhtoothan/)
+
+Duck-Jitsu Gameplay and Card Art - [Jacob Weintroub](https://www.linkedin.com/in/jacob-weintroub-476145386/)
+
+ALL OTHER ART (including scenes, duck assets, and furniture assets) - [Janet Medina](https://www.instagram.com/chxrry47/)
+
+
+
+
