@@ -47,6 +47,9 @@ Please ensure you have downloaded all files included in the repository, includin
 
 <img width="1302" height="737" alt="Screenshot 2026-02-22 at 6 56 10 PM" src="https://github.com/user-attachments/assets/b8da7979-1ed1-44e4-a66a-080e7ab8c398" />
 
+## Video Demo 🎥
+
+https://github.com/user-attachments/assets/a19c6cec-e147-47d8-af1b-24eb1592e110
 
 ## Questions? 📧
 Feel free to contact me over at jorge.martin0308@gmail.com with any questions about gameplay, how to run, or even if you find any bugs! 🐛
